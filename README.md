@@ -1,1 +1,2 @@
-# template
+This is a cpp project template.
+
